@@ -1,0 +1,10 @@
+c:\users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.vbprojResolveAssemblyReference.cache
+c:\users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.vbproj.GenerateResource.Cache
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\KiyoshiChecker.exe.config
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\KiyoshiChecker.exe
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\KiyoshiChecker.pdb
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\KiyoshiChecker.xml
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\KiyoshiChecker.Resources.resources
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\KiyoshiChecker.exe
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\KiyoshiChecker.xml
+C:\Users\sh.kikuchi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\KiyoshiChecker.pdb
